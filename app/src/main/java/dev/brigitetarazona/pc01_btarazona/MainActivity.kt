@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
             }else{
                 // Credenciales incorrectas, mostrar mensaje de error
-                etemail.error = "Credenciales incorrectas"
+                etemail.error = "Credenciales incorrectas.."
             }
 
         }
