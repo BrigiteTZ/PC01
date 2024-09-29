@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pc01_btarazona</string>
+    <string name="etEmail">Enter email</string>
+    <string name="etPassword">Enter password</string>
+</resources>
